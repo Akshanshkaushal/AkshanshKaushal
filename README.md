@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akshanshkaushal.github.io/nportfolio/](https://akshanshkaushal.github.io/nportfolio/)
 
-- 💬 Ask me about **react, next, typescript, node, Devops**
+- 💬 Ask me about **react, next, typescript, node, Devops, Solidity, rust**
 
 - 📫 How to reach me **akshanhkaushal9@gmail.com**
 
